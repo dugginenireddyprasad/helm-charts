@@ -723,7 +723,7 @@ alertmanager:
     annotations: {}
     labels: {}
     clusterIP: ""
-    type:LoadBalancer
+    type: LoadBalancer
     ipDualStack:
       enabled: false
       ipFamilies: ["IPv6", "IPv4"]
